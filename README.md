@@ -1,4 +1,4 @@
 # My_tasks_for_Python
-` python
+<code>
 print "hello world"
-`
+</code>
